@@ -3,7 +3,6 @@ import styled from "styled-components";
 
 const Text = styled.span`
   border-right: 0.15rem solid orange;
-  white-space: nowrap;
   margin-left: 0.916rem;
   word-spacing: -0.125rem;
   padding-right: 0.5rem;

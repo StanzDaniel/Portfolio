@@ -4,6 +4,7 @@ const PhotoContainer = styled.div`
   max-width: 19rem;
   max-height: 19rem;
   border-radius: 50%;
+  margin: 0 2rem;
   filter: brightness(0.85);
   box-shadow: 10px 10px 15px 10px rgba(0, 0, 0, 0.5);
 `;
